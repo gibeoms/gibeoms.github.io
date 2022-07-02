@@ -1,23 +1,27 @@
 {
-  "name": "gatsby-starter-portfolio-minimal-theme",
+  "name": "gibeoms",
   "version": "1.0.0",
-  "description": "A Gatsby Starter Project to easily get started with the Portfolio Minimal Theme.",
+  "description": "gibeoms",
   "scripts": {
     "clean": "gatsby clean",
     "develop": "gatsby develop",
     "build": "gatsby build",
     "serve": "gatsby serve"
   },
+"scripts": {
+    "deploy": "gatsby build && gh-pages -d public -b deploy"
+},
   "engines": {
     "node": ">=16.0.0"
   },
   "dependencies": {
     "gatsby": "^4.0.2",
     "gatsby-theme-portfolio-minimal": "latest",
+    "gh-pages": "^4.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
-  "author": "Konstantin Münster <mail@konstantin.digital>",
+  "author": "Gibeom Shin <hunt1256@gmail.com>",
   "license": "0BSD",
   "starter-name": "gatsby-starter-portfolio-minimal-theme",
   "homepage": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme#readme",
