@@ -1,8 +1,8 @@
 {
   "siteMetadata": {
-    "language": "en",
+    "language": "ko",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
-    "title": "Gatsby Starter for Portfolio Minimal",
+    "title": "Gibeom's devlog",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
     "author": "Konstantin Münster",
@@ -10,14 +10,14 @@
     "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
     "social": {
       "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
+      "github": "https://github.com/gibeoms",
       "medium": "https://konstantinmuenster.medium.com",
       "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "mail": "mailto:hunt1256@gmail.com"
     }
   },
   "siteConfiguration": {
-    "logo": { "text": "Portfolio" },
+    "logo": { "text": "devlog" },
     "navigation": {
       "header": [
         { "label": "About", "url": "/#about" },
