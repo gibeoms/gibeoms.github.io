@@ -5,8 +5,8 @@ module.exports = {
       name: `Gibeom`,
       summary: `who lives and works in Seoul, Korea.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: ``,
+    siteUrl: `https://gibeoms.github.io/`,
     social: {
       twitter: ``,
     },
